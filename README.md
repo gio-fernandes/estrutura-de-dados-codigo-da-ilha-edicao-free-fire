@@ -95,8 +95,8 @@ Ordenado por nome (Bubble Sort):
 
 ## Autora:
 
-Desenvolvido por **Giovanna Fernandes**
-Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**,  
+- Desenvolvido por **Giovanna Fernandes**
+- Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**,  
 no curso de **Sistemas de Informação**.  
 
-Tem como objetivo aplicar na prática os conceitos de **análise e comparação de algoritmos** em linguagem **C**.  
+- Tem como objetivo aplicar na prática os conceitos de **análise e comparação de algoritmos** em linguagem **C**.  
